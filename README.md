@@ -10,14 +10,14 @@ This project was developed with the aim of gaining academic experience using the
 To run this application, you need to have Python and Streamlit installed in your environment. Follow the steps below to set up and start the project:
 
 1. **Clone this repository to your preferred location.**
-`git clone https://github.com/your-username/streamlit-learning-project.git`
-`cd streamlit-learning-project`
+* `git clone https://github.com/your-username/streamlit-learning-project.git`
+* `cd streamlit-learning-project`
 
 2. **Install Streamlit using pip:**
-`pip install streamlit pandas numpy`
+* `pip install streamlit pandas numpy`
 
 3. **Navigate to the project folder and run the main script:**
-`streamlit run 1_home.py`
+* `streamlit run 1_home.py`
 
 Replace `1_home.py` with the name of your project's main script, if different.
 
